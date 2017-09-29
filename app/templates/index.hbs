@@ -5,7 +5,7 @@ here know what you think of their service and cooking by simply giving them
 a rating.</p>
 
 <ul>
-  {{#each model.restaurants as |restaurant|}}
-
+  {{#each model as |restaurant|}}
+    <li> {{restaurant.name}} {{restaurant.cuisine}} {{restaurant.locale}} {{restaurant.sitting}}</li>
   {{/each}}
 </ul>

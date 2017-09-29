@@ -1,16 +1,16 @@
 {
   "restaurants": [{
 
-      "Name": "Big Wheel",
-      "Cuisine": "Kenyan style barbecue",
-      "Locale": "Ongata Rongai",
-      "Sitting-capacity": 400
+      "name": "Big Wheel",
+      "cuisine": "Kenyan style barbecue",
+      "locale": "Ongata Rongai",
+      "sitting-capacity": 400
     },
     {
-      "Name": "Pride Place",
-      "Cuisine": "Mediterranean",
-      "Locale": "Thika Road",
-      "Sitting-capacity": 150
+      "name": "Pride Place",
+      "cuisine": "Mediterranean",
+      "locale": "Thika Road",
+      "sitting-capacity": 150
 
 
     }
