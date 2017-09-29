@@ -1,0 +1,18 @@
+{
+  "restaurants": [{
+
+      "Name": "Big Wheel",
+      "Cuisine": "Kenyan style barbecue",
+      "Location": "Ongata Rongai",
+      "Sitting Capacity": 400
+    },
+    {
+      "Name": "Pride Place",
+      "Cuisine": "Mediterranean",
+      "Location": "Thika Road",
+      "Sitting Capacity": 150
+
+
+    }
+  ]
+}
