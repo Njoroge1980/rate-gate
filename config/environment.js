@@ -18,6 +18,12 @@ module.exports = function(environment) {
       }
     },
 
+    firebase: {
+      apiKey: "AIzaSyAXVdWcF8xQ2qVhv0yDq4jvrtHv4EE5-BE",
+      authDomain: "rate-gate.firebaseapp.com",
+      databaseURL: "https://rate-gate.firebaseio.com",
+      storageBucket: "rate-gate.appspot.com",
+    },
     APP: {
       // Here you can pass flags/options to your application instance
       // when it is created
