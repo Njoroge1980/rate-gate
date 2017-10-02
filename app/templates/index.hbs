@@ -6,6 +6,8 @@ a rating.</p>
 
 <ul>
   {{#each model as |restaurant|}}
-    <li> {{restaurant.name}} {{restaurant.cuisine}} {{restaurant.locale}} {{restaurant.sitting}}</li>
+    <li> {{restaurant.name}}{{restaurant.cuisine}}{{restaurant.locale}}{{restaurant.sitting}}</li>
   {{/each}}
 </ul>
+{{add-restaurant saveRestaurant="saveRestaurant"}}
+{{#link-to 'restaurant' restaurant.id}}{{/link-to}}
