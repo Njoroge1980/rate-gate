@@ -64,4 +64,6 @@ Ember
   In case you run into any problems while installing or using the app or for further comments, you can reach the team at
   njorogemungai980@gmail.com
 
-  
+##  License
+
+  MIT Copyright (c) 2017 Njoroge Mungai
