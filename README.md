@@ -41,6 +41,13 @@ To deploy the app copy paste this link onto your browser: https://rate-gate.fire
 
 There are no known bugs on this application at the time of deployment.
 
+## Technologies Used
+
+HTML5
+CSS
+Bootstrap
+Javascript
+Ember
 
 
 ## Further Reading / Useful Links
