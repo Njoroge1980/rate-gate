@@ -22,9 +22,6 @@ You will need the following things properly installed on your computer.
 * `ember serve`
 * Visit your app at [http://localhost:4200](http://localhost:4200).
 
-### Code Generators
-
-Make use of the many generators for code, try `ember help generate` for more details
 
 ### Running Tests
 
@@ -38,7 +35,13 @@ Make use of the many generators for code, try `ember help generate` for more det
 
 ### Deploying
 
-Specify what it takes to deploy your app.
+To deploy the app copy paste this link onto your browser: https://rate-gate.firebaseapp.comSpecify
+
+## Known Bugs
+
+There are no known bugs on this application at the time of deployment.
+
+
 
 ## Further Reading / Useful Links
 
