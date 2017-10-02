@@ -49,7 +49,6 @@ Bootstrap
 Javascript
 Ember
 
-
 ## Further Reading / Useful Links
 
 * [ember.js](https://emberjs.com/)
@@ -57,3 +56,12 @@ Ember
 * Development Browser Extensions
   * [ember inspector for chrome](https://chrome.google.com/webstore/detail/ember-inspector/bmdblncegkenkacieihfhpjfppoconhi)
   * [ember inspector for firefox](https://addons.mozilla.org/en-US/firefox/addon/ember-inspector/)
+
+
+
+## Support and contact details
+
+  In case you run into any problems while installing or using the app or for further comments, you can reach the team at
+  njorogemungai980@gmail.com
+
+  
